@@ -47,3 +47,8 @@ The dataset is used subject to its CC BY-NC 4.0 license. The original dataset is
 
 ## Disclaimer
 This is an analytical project based on the provided dataset. Observed relationships are descriptive and should not be interpreted as proof of causation.
+
+
+## Dashboard Preview
+
+![Food Delivery Performance Analytics Dashboard](food_delivery_dashboard.png)
